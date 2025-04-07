@@ -1,5 +1,9 @@
 ## Hi there 👋
 
+I'm a sophomore at Brown University in Computer Science with years of hobby and in-school experience in software engineering across the stack from web, to backend, to systems programming. I'm passionate about computer systems and low-level development, and am pursuing a career in Software Engineering in those areas.
+
+[Website](https://aaronperrotta.com) | [LinkedIn](https://linkedin.com/in/aaronzp)
+
 <!--
 **aaronzper/aaronzper** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
